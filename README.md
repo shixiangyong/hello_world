@@ -1,2 +1,3 @@
 # hello_world
-learn_code
+Hi, All,
+That is the beginning to learn code for me 
